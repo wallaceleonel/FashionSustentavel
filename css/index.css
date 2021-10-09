@@ -29,11 +29,20 @@ main {
   gap: 16px;
 }
 
-.menu a {
+.menu a,
+label {
   text-decoration: none;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: #545454;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
 }
 
 footer {
