@@ -12,7 +12,10 @@ li,ul,a{
 }
 
 nav {
+
+    display: flex;
+    justify-content: space-between;
     width: 1440px;
     height: 70px;
-    background-color: cornsilk;
+    background-color: #fff;
 }
