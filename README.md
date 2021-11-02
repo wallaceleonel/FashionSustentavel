@@ -33,7 +33,11 @@ Criado por :
 
 **Desenvolvedes** 
 
--    [wallaceleonel](https://github.com/wallaceleonel)
+-    [wallace leonel](https://github.com/wallaceleonel)
+-    [Ailton Alves](https://github.com/aailton)
+-    [Wallace Leite ](https://github.com/wallacejerry)
+-    [Larissa Sampaio](https://github.com/LarissaSampaio)
+-    [Luis Fernando ](https://github.com/Luinando7)
   
 
 ## 📄 Licença
